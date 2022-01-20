@@ -28,7 +28,7 @@ The web app is live [here](http://coffeeclub.princeton.edu/landing). Anyone can 
 
 ### Landing Interface
 
-<img src="https://raw.githubusercontent.com/spoiledhua/expresso/master/screen_captures/landing_page.png" width="49%" height="49%" /> <img src="https://raw.githubusercontent.com/spoiledhua/expresso/master/screen_captures/sidebar.png" width="49%" height="49%" />
+<img src="https://raw.githubusercontent.com/Hari-Raval/expresso/main/screen_captures/landing_page.png" width="49%" height="49%" /> <img src="https://raw.githubusercontent.com/Hari-Raval/expresso/main/screen_captures/sidebar.png" width="49%" height="49%" />
 
 <img src="https://raw.githubusercontent.com/spoiledhua/expresso/master/screen_captures/about_page.png" width="49%" height="49%" /> <img src="https://raw.githubusercontent.com/spoiledhua/expresso/master/screen_captures/location_page.png" width="49.5%" height="49.5%" />
 
