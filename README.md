@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spoiledhua/expresso/master/frontend/src/Assets/coffeesteam.gif" width="12%" height="12%" />
+  <img src="https://raw.githubusercontent.com/Hari-Raval/expresso/main/frontend/src/Assets/coffeesteam.gif" width="12%" height="12%" />
 </p>
 
 <h1 align="center">
@@ -30,17 +30,17 @@ The web app is live [here](http://coffeeclub.princeton.edu/landing). Anyone can 
 
 <img src="https://raw.githubusercontent.com/Hari-Raval/expresso/main/screen_captures/landing_page.png" width="49%" height="49%" /> <img src="https://raw.githubusercontent.com/Hari-Raval/expresso/main/screen_captures/sidebar.png" width="49%" height="49%" />
 
-<img src="https://raw.githubusercontent.com/spoiledhua/expresso/master/screen_captures/about_page.png" width="49%" height="49%" /> <img src="https://raw.githubusercontent.com/spoiledhua/expresso/master/screen_captures/location_page.png" width="49.5%" height="49.5%" />
+<img src="https://raw.githubusercontent.com/Hari-Raval/expresso/main/screen_captures/about_page.png" width="49%" height="49%" /> <img src="https://raw.githubusercontent.com/Hari-Raval/expresso/main/screen_captures/location_page.png" width="49.5%" height="49.5%" />
 
 ### Customer Interface
 
-<img src="https://raw.githubusercontent.com/spoiledhua/expresso/master/screen_captures/menu_page.png" width="49%" height="49%" /> <img src="https://raw.githubusercontent.com/spoiledhua/expresso/master/screen_captures/order_page.png" width="49%" height="49%" />
+<img src="https://raw.githubusercontent.com/Hari-Raval/expresso/main/screen_captures/menu_page.png" width="49%" height="49%" /> <img src="https://raw.githubusercontent.com/Hari-Raval/expresso/main/screen_captures/order_page.png" width="49%" height="49%" />
 
-<img src="https://raw.githubusercontent.com/spoiledhua/expresso/master/screen_captures/FAQ_page.png" width="49%" height="49%" /> <img src="https://raw.githubusercontent.com/spoiledhua/expresso/master/screen_captures/contact_page.png" width="49%" height="49%" />
+<img src="https://raw.githubusercontent.com/Hari-Raval/expresso/main/screen_captures/FAQ_page.png" width="49%" height="49%" /> <img src="https://raw.githubusercontent.com/Hari-Raval/expresso/main/screen_captures/contact_page.png" width="49%" height="49%" />
 
 ### Barista Interface
 
-<img src="https://raw.githubusercontent.com/spoiledhua/expresso/master/screen_captures/barista_page.png" width="49%" height="49%" /> <img src="https://raw.githubusercontent.com/spoiledhua/expresso/master/screen_captures/inventory_page.png" width="49%" height="49%" />
+<img src="https://raw.githubusercontent.com/Hari-Raval/expresso/main/screen_captures/barista_page.png" width="49%" height="49%" /> <img src="https://raw.githubusercontent.com/Hari-Raval/expresso/main/screen_captures/inventory_page.png" width="49%" height="49%" />
 
 ## Features
 
@@ -68,4 +68,4 @@ Customers can click on any item on the menu to render a popup with more details,
 Expresso is mobile-friendly—we anticipated that most of our users would place orders through their phones. It is also tablet-friendly since the Coffee Club anticipates providing tablets for baristas to handle orders.
 
 ## Additional Information
-To learn more about Expresso and see additional details about its functionality from a customer's point of view, navigate to the User's Guide our team wrote [here](https://github.com/spoiledhua/expresso/blob/master/UsersGuide.pdf). To learn about the technical implementation, navigate to the Programmer's Guide we put together [here](https://github.com/spoiledhua/expresso/blob/master/ProgrammersGuide.pdf).
+To learn more about Expresso and see additional details about its functionality from a customer's point of view, navigate to the User's Guide our team wrote [here](https://github.com/Hari-Raval/expresso/blob/main/UsersGuide.pdf). To learn about the technical implementation, navigate to the Programmer's Guide we put together [here](https://github.com/Hari-Raval/expresso/blob/main/ProgrammersGuide.pdf).
