@@ -18,11 +18,7 @@ Expresso was launched early in the 2020 Spring semester and is being used heavil
 
 ## About
 
-Expresso was developed in Princeton University's COS 333: Advanced Programming Techniques Fall 2019 course. The frontend is written in JavaScript/React and the backend in Python/Flask. The app is hosted on cPanel. Google Maps API is used for geo-location and the map display. More information about the Coffee Club can be found [here](https://pucoffeeclub.com/).
-
-## My Contribution
-
-I led the frontend team and developed most of the frontend, using React. This repository is duplicated from the original repository my team and I worked on (which is a private repository). You can navigate quickly to the general React code in the 'frontend' folder [here](https://github.com/spoiledhua/expresso/tree/master/frontend/src), and to the components I built in the 'Components' folder [here](https://github.com/spoiledhua/expresso/tree/master/frontend/src/Components).
+Expresso was developed in Princeton University's COS 333: Advanced Programming Techniques Fall 2019 course. The frontend is written in JavaScript/React and the backend in Python/Flask. The app is hosted on cPanel. Google Maps API is used for geo-location and the map display. More information about the Coffee Club can be found [here](https://pucoffeeclub.com/). Note that this repository is duplicated from the original repository my team and I worked on (which is a private repository).
 
 ## Demo
 
